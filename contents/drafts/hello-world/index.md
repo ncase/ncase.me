@@ -1,0 +1,15 @@
+---
+title: "Hello World"
+date: 1994-09-11
+template: article.jade
+---
+
+DAMMIT
+
+I JUST GOT EVICTED
+
+GUESS I NEVER PAID THE RENT FOR NINE MONTHS
+
+I NEED TO BLOG THIS ON THE INTERNET
+
+WHAT'S AN INTERNET
