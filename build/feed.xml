@@ -14,19 +14,12 @@
       <pubDate>Fri, 13 Dec 2013 16:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://www.ncase.me/articles/show-and-tell-8/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;strong&gt;Things I&amp;#39;ve Done Since &lt;a href=&quot;http://www.ncase.me/articles/show-and-tell-7/&quot;&gt;My Last Update&lt;/a&gt;&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Nothing To Hide: Feature complete demo. (&lt;a href=&quot;http://ncase.s3.amazonaws.com/game0/level.html&quot;&gt;online dev build&lt;/a&gt;, &lt;a href=&quot;https://github.com/nutcasenightmare/nothing-to-hide&quot;&gt;source code&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Immigration Shenanigans: Everything&amp;#39;s figured out now!... hopefully.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Things I Will Do This Week&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Nothing To Hide: Playtest &amp;amp; Polish.&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Things I&amp;#39;ve Done Since &lt;a href=&quot;http://www.ncase.me/articles/show-and-tell-7/&quot;&gt;My Last Update&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;Nothing To Hide: Feature complete demo. (&lt;a href=&quot;http://ncase.s3.amazonaws.com/game0/level.html&quot;&gt;online dev build&lt;/a&gt;, &lt;a href=&quot;https://github.com/nutcasenightmare/nothing-to-hide&quot;&gt;source code&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Things I Will Do This Week&lt;/strong&gt;&lt;br&gt;Nothing To Hide: Playtest &amp;amp; Polish.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1&gt;Nothing To Hide&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/EWU5PnX.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Finally. The game demo is now feature-complete.&lt;/p&gt;
+&lt;p&gt;Finally. The game demo is now feature-complete!&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;New controls: click-and-hold to move, click buttons to interact.&lt;/li&gt;
 &lt;li&gt;New mechanics: conveyor belts, moveable blocks, trigger prisms.&lt;br&gt;(the &amp;quot;door&amp;quot; mechanic has been scrapped)&lt;/li&gt;
@@ -38,24 +31,7 @@ One with a group of friends in Seattle, and another with friends in the Bay Area
 After each playtest group, refine and polish the game.
 By the end of the week, everything should be more or less in place for the &lt;em&gt;Nothing To Hide&lt;/em&gt; demo.
 (And the week after that will be focusing on the Progress Pledge campaign, due to launch Jan 1st - public domain day)&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1&gt;Immigration Shenanigans&lt;/h1&gt;
-&lt;p&gt;&lt;div style=&quot;text-align:center; font-size:25px&quot;&gt;&lt;i&gt;“Oh my god. I don&amp;#39;t know where I&amp;#39;m sleeping next week.”&lt;/i&gt;&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;It was a horrifying realization that didn&amp;#39;t fully &lt;em&gt;hit&lt;/em&gt; me until I said it out loud to a friend.&lt;/p&gt;
-&lt;p&gt;But with the help of Mike Ryvin Law Offices &amp;amp; Elizabeth Stark, I&amp;#39;m applying for a TN visa!
-As such, I get to stay in the US for now, and hopefully for the next few months.
-Worst case, I get deported back to my country with good healthcare and a government that actually fucking &lt;em&gt;cares&lt;/em&gt; about civil rights.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/qrxh3cM.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Last week, I was a wreck.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;How could I not be, when I couldn&amp;#39;t predict my life even &lt;em&gt;two&lt;/em&gt; weeks in advance?!
-But things &lt;em&gt;are&lt;/em&gt; looking up.
-My mentors and friends saved me.
-A friend let me stay at her place in Seattle, my mentor helped me apply for a TN visa,
-and everyone provided emotional support in my rough times.&lt;/p&gt;
-&lt;p&gt;Honestly, thank you all so much.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Yours,&lt;/strong&gt;&lt;br&gt;~ Nick&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Until next time,&lt;/strong&gt;&lt;br&gt;~ Nick&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -69,7 +45,6 @@ and everyone provided emotional support in my rough times.&lt;/p&gt;
 &lt;li&gt;Progress Pledge: Fully featured site, (&lt;a href=&quot;http://back.nothingtohide.cc/&quot;&gt;accomplished&lt;/a&gt;, with &lt;a href=&quot;https://github.com/nutcasenightmare/progress-pledge&quot;&gt;source&lt;/a&gt;) &lt;del&gt;do user tests&lt;/del&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;Nothing To Hide: Public polished prototype #2&lt;/del&gt;&lt;br&gt;(Nothing for &lt;em&gt;Nothing&lt;/em&gt;. But all the latest work is finally &lt;a href=&quot;https://github.com/nutcasenightmare/nothing-to-hide&quot;&gt;on Github&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Met with the Mozilla YVR team (yes)&lt;/li&gt;
-&lt;li&gt;[added] Travel to Seattle&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Things I Will Do This Week&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -108,11 +83,6 @@ They let me demo my projects, Nothing To Hide and Progress Pledges.
 The demo was also an effective way to find each project&amp;#39;s &amp;quot;oh wow that&amp;#39;s cool&amp;quot; moment.
 (Nothing To Hide: anti-stealth. Progress Pledge: pledging in instalments)&lt;/p&gt;
 &lt;p&gt;On my way out, I walked into a door and started bleeding, somehow.&lt;br&gt;Sorry for staining the floor.&lt;/p&gt;
-&lt;p&gt;Last weekend, I travelled down to Seattle via train!
-I&amp;#39;m currently couchsurfing at Katriona&amp;#39;s, a dear friend and 2013 Thiel Finalist.
-I got hassled by the border patrol guards, so... I can&amp;#39;t stay here for long.
-But before I get deported to Vancouver at best or Guantanamo at second-best,
-I plan to meet up with &lt;a href=&quot;http://mako.cc/&quot;&gt;Mako&lt;/a&gt;, a top researcher in peer production and free culture.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Until next time,&lt;/strong&gt;&lt;br&gt;~ Nick&lt;/p&gt;
 </description>
     </item>
