@@ -5,8 +5,7 @@ I'm the creator of the :The Game: trilogy of satirical web games,
 as well as Gap Monsters, Pony Wings, Secret Santa, Nothing To Hide,
 and a bunch of other Flash/HTML5 games.
 
-This is a "copyright" notice to note I do *not* want "all rights reserved".
-It's absolutely ridiculous I have to state this explicitly, but here goes:
+It's absoutely ridiculous I have to state this explicitly, but here goes:
 
 1. You can monetize Let's Plays of my games.
 2. You are free to re-distribute or re-host my web games.
