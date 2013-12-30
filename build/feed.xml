@@ -5,9 +5,67 @@
     <atom:link href="http://www.ncase.me/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://www.ncase.me</link>
     <description>The Stories &amp; Shenanigans of Someone Nicknamed Nick</description>
-    <pubDate>Fri, 13 Dec 2013 16:00:00 -0800</pubDate>
+    <pubDate>Fri, 27 Dec 2013 16:00:00 -0800</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Show &amp; Tell #9 - Screaming As If I'm Laughing</title>
+      <link>http://www.ncase.me/articles/show-and-tell-9/</link>
+      <pubDate>Fri, 27 Dec 2013 16:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://www.ncase.me/articles/show-and-tell-9/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;strong&gt;Things I&amp;#39;ve Done Since &lt;a href=&quot;http://www.ncase.me/articles/show-and-tell-8/&quot;&gt;My Last Update&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;Nothing To Hide: Storytelling &amp;amp; Playtesting.
+(&lt;a href=&quot;http://ncase.s3.amazonaws.com/Game3/nothing.html&quot;&gt;this week&amp;#39;s build&lt;/a&gt;, and &lt;a href=&quot;https://github.com/nutcasenightmare/nothing-to-hide&quot;&gt;source code&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Things I Will Do This Week&lt;/strong&gt;&lt;br&gt;Nothing To Hide: What is this, Half Life 3? Just finish the damn thing already.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;Nothing To Hide&lt;/h1&gt;
+&lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube-nocookie.com/embed/kO-fDIUVovs&quot; frameborder=&quot;0&quot; allowfullscreen style=&quot;display:block; margin:-20px auto 20px auto;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The first developer vlog entry from Nothing To Hide!
+A picture is worth a thousand words, so this video must be worth 24,000 words per second.
+The math checks out.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Storytelling, and tragicomedy.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“In the last photograph, he is screaming so hard it looks as if he is laughing”.&lt;/em&gt;&lt;br&gt;~ Men Who Stare At Goats, describing a photo of &amp;#39;enhanced interrogation&amp;#39;.&lt;/p&gt;
+&lt;p&gt;The biggest feature added has been the intro cutscene in the form of a scrollable social media feed.
+People love the clever presentation of it!
+The introduction sets the scene. You&amp;#39;re an insecure teenage girl, running away from your emotionally neglectful father.
+Who&amp;#39;s also a big politician.
+A tragic setting, told through a comic lens. I love writing tragicomedy.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Playtesting, and accidental obscurity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After three in-person playtests, (Katriona, MC, and Thomas) and sending the latest build
+&lt;a href=&quot;http://tinyletter.com/nothingtohide/letters/a-late-present-to-you-from-nothing-to-hide&quot;&gt;to my TinyLetter subscribers&lt;/a&gt;
+and &lt;a href=&quot;http://www.reddit.com/r/gamedev/comments/1tsuec/feedback_friday_61/ceb3a9o&quot;&gt;the r/gamedev community&lt;/a&gt;,
+and &lt;a href=&quot;http://www.reddit.com/r/gamedev/comments/1tv1x1/screenshot_saturday_151_2013/cebqfpr&quot;&gt;again to r/gamedev&lt;/a&gt;...
+I notice a few recurring sentiments.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mixed reception on mouse controls. Some &lt;em&gt;love&lt;/em&gt; it, some want arrow keys back.&lt;/li&gt;
+&lt;li&gt;Add in-game instructions before publishing a playable build, dummy.&lt;/li&gt;
+&lt;li&gt;It takes too long to establish the main mechanic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On the plus side...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The crowd goes &lt;em&gt;wild&lt;/em&gt; for &amp;quot;Story through a Social Feed&amp;quot;!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Next Steps, and &lt;em&gt;cutting down everything&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Playtest new control scheme: Keyboard control, &lt;em&gt;with a sneak mode for precise movement&lt;/em&gt;.
+Movement precision was the only reason I made mouse controls in the first place.&lt;/li&gt;
+&lt;li&gt;Combine and cull levels: Establish the &amp;quot;you must keep yourself in sight&amp;quot; premise from the get-go.
+Moving iEyes should be the second level. The next three levels expanding on moving iEyes should be combined into one level.
+Conveyor levels were well-received, and can stay the same. The Trigger-Eyes mechanic needs to be introduced better.&lt;/li&gt;
+&lt;li&gt;Story: Cut out a lot of the bigger story I had planned. It&amp;#39;s bloat anyway. 
+Create the ending cutscene.
+Minimum Viable Story: You&amp;#39;re an insecure girl in a nation obsessed with security. You go on the run.
+You rescue another runaway kid just like you, who&amp;#39;s part of a rebellion. You join him. To be continued.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I will kick myself screaming if I do not finish this game by &lt;em&gt;Friday, Jan 3rd, 2014&lt;/em&gt;.
+Screaming so hard, that looks like I&amp;#39;m laughing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Until next time,&lt;/strong&gt;&lt;br&gt;~ Nick&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Show &amp; Tell #8 - Maybe Everything</title>
       <link>http://www.ncase.me/articles/show-and-tell-8/</link>
